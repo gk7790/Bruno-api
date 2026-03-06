@@ -9,6 +9,7 @@ http:
   headers:
     - name: authorization
       value: SM-xP5VW3T8PV0qCz_PhdWOmfDQ7U40hI7mup9rIE0Udwj2Jh0BoxsFyO4nKUE9BpA
+      description: 的手机号福建省咖啡壶卡
   auth: inherit
 
 settings:
