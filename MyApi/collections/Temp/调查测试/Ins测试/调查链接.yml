@@ -1,0 +1,18 @@
+info:
+  name: 调查链接
+  type: http
+  seq: 1
+
+http:
+  method: GET
+  url: https://bk.insightcents.com/member/suppliers/v1/list
+  headers:
+    - name: authorization
+      value: SM-xP5VW3T8PV0qCz_PhdWOmfDQ7U40hI7mup9rIE0Udwj2Jh0BoxsFyO4nKUE9BpA
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

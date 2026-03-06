@@ -1,0 +1,18 @@
+opencollection: 1.0.0
+info:
+  name: "MyApi"
+  type: workspace
+
+collections:
+  - name: "Survey"
+    path: "collections/Survey"
+  - name: "Gk-Survey"
+    path: "collections/Gk-Survey"
+  - name: "Temp"
+    path: "collections/Temp"
+  - name: "Gk-cloud"
+    path: "collections/Gk-cloud"
+
+specs:
+
+docs: ''
